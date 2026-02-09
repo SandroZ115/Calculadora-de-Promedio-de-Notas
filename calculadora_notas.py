@@ -18,9 +18,9 @@ def calcular_promedio():
         print(f"Tu promedio final es: {round(promedio, 2)}")
         
         if promedio >= 61:
-            print("Estado: APROBADO ✅")
+            print("Estado: APROBADO ✅ :D")
         else:
-            print("Estado: REPROBADO ❌")
+            print("Estado: REPROBADO ❌ D:")
             
     except ValueError:
         print("Error: Por favor ingresa solo números.")
